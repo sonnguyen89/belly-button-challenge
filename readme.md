@@ -1,4 +1,4 @@
-NoSQL Database  Repository
+Belly Button Biodiversity
 
 We build an interactive dashboard to explore the Belly Button Biodiversity datasetLinks to an external site., which catalogues the microbes that colonise human navels.
 The dataset reveals that a small handful of microbial species (also called operational taxonomic units, or OTUs, in the study) were present in more than 70% of people,
@@ -38,7 +38,7 @@ Feel free to explore and modify these files to suit your specific needs.
 
 ## Contributing
 
-Contributions to this repository are welcome! If you have any useful SQL queries or improvements to existing ones, please feel free to submit a pull request.
+Contributions to this repository are welcome! If you have any useful Javascript codes or improvements to existing ones, please feel free to submit a pull request.
 
 Before contributing, please ensure that your code adheres to the repository's coding standards and practices.
 
